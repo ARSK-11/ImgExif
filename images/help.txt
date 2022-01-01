@@ -1,0 +1,2 @@
+paste img in folder images for scanning
+all type format img
