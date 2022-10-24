@@ -15,3 +15,9 @@
 <h3>usage video tutorials:</h3>
 <span>Link: </span><a href="https://www.youtube.com/watch?v=sKuK36JbEnY">https://www.youtube.com/watch?v=sKuK36JbEnY</a>
 
+<br>
+<h3>installation:</h3>
+<textarea>
+git clone https://github.com/ARSK-11/ImgExif/
+pip3 install 
+</textarea>
