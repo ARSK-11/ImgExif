@@ -20,5 +20,7 @@
 <div>
 git clone https://github.com/ARSK-11/ImgExif.git
 <br>
-pip3 install requirements.txt 
+pip3 install requirements.txt
+<br>
+python3 imgexif.py
 </div>
