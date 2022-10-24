@@ -12,5 +12,5 @@
 </ul>
 <br/>
 <h3>usage video tutorials:</h3>
-<a href="https://www.youtube.com/watch?v=sKuK36JbEnY">https://www.youtube.com/watch?v=sKuK36JbEnY</a>
+<span>Link: </span><a href="https://www.youtube.com/watch?v=sKuK36JbEnY">https://www.youtube.com/watch?v=sKuK36JbEnY</a>
 
