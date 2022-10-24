@@ -17,7 +17,7 @@
 
 <br>
 <h3>installation:</h3>
-<textarea>
+<div>
 git clone https://github.com/ARSK-11/ImgExif/
 pip3 install 
-</textarea>
+</div>
